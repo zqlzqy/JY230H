@@ -13,8 +13,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "..\BLL\BLL.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "..\Common\Common.csproj", "{73CFAA7A-C99A-4553-AED3-B3D95480D6C3}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "XdataAnalyzeSetup", "..\XdataAnalyzeSetup\XdataAnalyzeSetup.vdproj", "{712B4151-AD41-4722-94C0-F72EB45926E5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,16 +127,6 @@ Global
 		{73CFAA7A-C99A-4553-AED3-B3D95480D6C3}.Release|x64.Build.0 = Release|Any CPU
 		{73CFAA7A-C99A-4553-AED3-B3D95480D6C3}.Release|x86.ActiveCfg = Release|x86
 		{73CFAA7A-C99A-4553-AED3-B3D95480D6C3}.Release|x86.Build.0 = Release|x86
-		{712B4151-AD41-4722-94C0-F72EB45926E5}.Debug|Any CPU.ActiveCfg = Debug
-		{712B4151-AD41-4722-94C0-F72EB45926E5}.Debug|ARM.ActiveCfg = Debug
-		{712B4151-AD41-4722-94C0-F72EB45926E5}.Debug|ARM64.ActiveCfg = Debug
-		{712B4151-AD41-4722-94C0-F72EB45926E5}.Debug|x64.ActiveCfg = Debug
-		{712B4151-AD41-4722-94C0-F72EB45926E5}.Debug|x86.ActiveCfg = Debug
-		{712B4151-AD41-4722-94C0-F72EB45926E5}.Release|Any CPU.ActiveCfg = Release
-		{712B4151-AD41-4722-94C0-F72EB45926E5}.Release|ARM.ActiveCfg = Release
-		{712B4151-AD41-4722-94C0-F72EB45926E5}.Release|ARM64.ActiveCfg = Release
-		{712B4151-AD41-4722-94C0-F72EB45926E5}.Release|x64.ActiveCfg = Release
-		{712B4151-AD41-4722-94C0-F72EB45926E5}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
