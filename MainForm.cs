@@ -64,7 +64,7 @@ namespace XdataAnalyze
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            listView1.Clear();
+            listView1.Clear();//清理
             selectAllToolStripMenuItem.Click += SelectDataClick;
             openToolStripMenuItem.Click += OpenFileClick;
             toolOpenStripButton1.Click += OpenFileClick;
